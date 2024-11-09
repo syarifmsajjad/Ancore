@@ -11,11 +11,18 @@ https://github.com/user-attachments/assets/b6a6ea64-faa2-468c-81f4-ca41a3c4b0a4
 - **Crawl OTX AlienVault**: Mengambil URL terkait dari database AlienVault OTX.
 - **Crawl Wayback Machine**: Menampilkan arsip URL dari Wayback Machine untuk domain target.
 
+## Install
+
+```
+git clone https://github.com/syarifmsajjad/Ancore.git
+cd Ancore
+chmod +x ancore.sh
+```
+
 ## Cara Menggunakan
 Jalankan perintah berikut di terminal:
 
 ```bash
-git clone 
 ./ancore.sh -t <target_domain> -o <output_file>
 ```
 
