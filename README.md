@@ -15,6 +15,7 @@ https://github.com/user-attachments/assets/b6a6ea64-faa2-468c-81f4-ca41a3c4b0a4
 Jalankan perintah berikut di terminal:
 
 ```bash
+git clone 
 ./ancore.sh -t <target_domain> -o <output_file>
 ```
 
